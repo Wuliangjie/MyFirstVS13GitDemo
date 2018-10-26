@@ -20,6 +20,7 @@ namespace MyFirstVS13GitDemo.Controllers
 
         public AccountController()
         {
+	int a=222;//branch1
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
