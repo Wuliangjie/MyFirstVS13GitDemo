@@ -24,7 +24,7 @@ namespace MyFirstVS13GitDemo.Controllers
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
-            int a = 0;///
+            int a = 0;/////
             UserManager = userManager;
             SignInManager = signInManager;
         }
