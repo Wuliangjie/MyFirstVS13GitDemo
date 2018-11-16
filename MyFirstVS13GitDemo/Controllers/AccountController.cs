@@ -8,7 +8,7 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using MyFirstVS13GitDemo.Models;
+using MyFirstVS13GitDemo.Models;//////////feature1分支测试
 
 namespace MyFirstVS13GitDemo.Controllers
 {
